@@ -1,0 +1,2 @@
+# minaTest
+zkApps
